@@ -51,7 +51,7 @@ I am **proactive, curious, and detail-oriented**, motivated by challenges and a 
 
 ## 📬 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/cagimenez" target="_blank">
+  <a href="https://www.linkedin.com/in/cagimenez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   </a>
