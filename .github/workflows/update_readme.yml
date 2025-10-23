@@ -11,4 +11,4 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       - name: Update README with recent activity
-        uses: caaygime/README@main # Reemplaza con tu información
+        uses: caaygime/README.md@main # Reemplaza con tu información
