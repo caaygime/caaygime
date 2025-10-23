@@ -62,6 +62,17 @@ I am **proactive, curious, and detail-oriented**, motivated by challenges and a 
 
 ---
 
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
+
+---
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caaygime&show_icons=true&theme=dracula" height="150"/>
